@@ -17,15 +17,15 @@ I am a BS Data Science student with an interest in data analysis, artificial int
 
 ## Featured Projects
 
-### [Hostel Management System]
+### Hostel Management System
 
 [Developed a basic hostel management system as my first semester project using html and css for frontend and python and flask for backend. It solved basic hostel management problems by providing interactive digital sustem.]
 
-### [Quizard]
+### Quizard
 
 [An interactive, effective and knowledgable web application developed using html, css, c# and api keys to improve knowledge and have a productive exposure with live AI chatbot. ]
 
-### [Fleet-Predict AI]
+### Fleet-Predict AI
 
 [Created using gen-AI skills, this project was a team project for my hackathon deployed on streamlit which resolves issues related to vehicles by using RAG technology.]
 
